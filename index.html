@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Music player</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="top-bar">
+            <i class="material-icons down">&les;</i>
+            <span>Now playing</span>
+            <i class="material-icons">&horbar;</i>
+          </div>
+          <div class="img-area">
+            <img class="img-box" src="">
+          </div>
+          <div class="song-details">
+            <p class="name"></p>
+            <p class="artist"></p>
+          </div>
+          <div class="progress-area">
+            <div class="progress-bar"></div>
+            <div class="timer">
+                <span class="current"></span>
+                <span class="duration"></span>
+            </div>
+            <audio id="main-audio" >
+              <source src="" >
+            </audio>
+          </div>
+          <div class="controls">
+           <i id="reapeat-songs" class="material"> 
+            <a href="bust.html"> <img id="repeat-plist" src="controls/repaet.png" class="images"></a> 
+          </i>
+           <i>
+            <img id="prev" src="controls/backward.png" alt="">
+          </i>
+          <i> 
+            <img class="play-pause" src="controls/play.png" alt="">
+           </i> 
+           <i>
+            <img id="next" src="controls/forward.png" alt="">
+           </i>
+           <i>
+           <img id="all-songs"src="controls/playList.png" alt="">
+           </i>
+          </div>
+          <div class="music-list">
+            <div class="header">
+              <div class="row">
+          <i> <img id="play-p" src="controls/playList.png" alt=""> </i> 
+             <span>Music List</span>
+            </div>
+           <i id="close">&times;</i>
+          </div>
+          <ul class="allSongs">
+          </ul>
+          </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

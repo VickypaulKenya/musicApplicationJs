@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="logo.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:372.53px;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#2b1100;stroke-width:10.5598;paint-order:stroke fill markers"
+       x="654.51398"
+       y="611.86359"
+       id="text153"
+       transform="scale(0.75190057,1.3299631)"><tspan
+         sodipodi:role="line"
+         id="tspan153"
+         x="654.51398"
+         y="611.86359"
+         style="fill:#f9f9f9;stroke-width:10.5598">P</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:561.577px;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#2b1100;stroke-width:15.9186;paint-order:stroke fill markers"
+       x="177.68866"
+       y="622.86237"
+       id="text151"
+       transform="scale(0.74710937,1.3384921)"><tspan
+         sodipodi:role="line"
+         id="tspan151"
+         x="177.68866"
+         y="622.86237"
+         style="fill:#f9f9f9;stroke-width:15.9186">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:208.125px;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#2b1100;stroke-width:5.89958;paint-order:stroke fill markers"
+       x="333.20663"
+       y="597.19208"
+       id="text152"
+       transform="scale(1.4108553,0.7087899)"><tspan
+         sodipodi:role="line"
+         id="tspan152"
+         x="333.20663"
+         y="597.19208"
+         style="stroke-width:5.89958">usic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:208.125px;font-family:'Lilita One';-inkscape-font-specification:'Lilita One';opacity:1;fill:#f9f9f9;fill-opacity:1;stroke:#2b1100;stroke-width:5.89958;paint-order:stroke fill markers"
+       x="413.64218"
+       y="1162.9304"
+       id="text154"
+       transform="scale(1.4108553,0.7087899)"><tspan
+         sodipodi:role="line"
+         id="tspan154"
+         x="413.64218"
+         y="1162.9304"
+         style="stroke-width:5.89958">layer</tspan></text>
+  </g>
+</svg>
